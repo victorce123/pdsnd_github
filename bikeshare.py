@@ -25,9 +25,9 @@ def check_input(input_str,input_type):
                 if input_type == 1:
                     print("Sorry,your input must be: chicago,new york city or washington")
                 if input_type == 2:
-                    print("Sorry your input should be:january,february,march,april,may,june or all")
+                    print("Sorry your input must be:january,february,march,april,may,june or all")
                 if input_type == 3:
-                    print("Sorry, your input should be: sunday, ...friday, saturday or all")
+                    print("Sorry, your input must be: sunday, ...friday, saturday or all")
         except ValueError:
             print("Sorry,your input is wrong")
     return input_read
