@@ -1,7 +1,7 @@
->**Note**: I **fork** the Udacity repository so that I will have a **remote** repository in **my** Github account.  I Cloned the remote repository to my local machine. Later, as a part of the project I Posted my Work on Github", by pushing my proposed changes to the remote repository in my Github account.
+>**Note**: I forked the Udacity repository so that I will have a remote repository in my Github account.I Cloned the remote repository to my local machine. Later, as a part of the project I Posted my Work on Github,by pushing my proposed changes to the remote repository in my Github account.
 
 ### Date created
-5th September 2021
+5th September, 2021
 
 ### Project Title
 Udacity Project Bikeshare.py
