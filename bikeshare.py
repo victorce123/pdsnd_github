@@ -23,7 +23,7 @@ def check_input(input_str,input_type):
                 break
             else:
                 if input_type == 1:
-                    print("Sorry,your input should be: chicago,new york city or washington")
+                    print("Sorry,your input must be: chicago,new york city or washington")
                 if input_type == 2:
                     print("Sorry your input should be:january,february,march,april,may,june or all")
                 if input_type == 3:
