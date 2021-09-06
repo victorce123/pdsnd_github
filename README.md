@@ -7,14 +7,19 @@
 Udacity Project Bikeshare.py
 
 ### Description
-The project,I used Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.I wrote code to import the data and answer interesting questions about it by computing descriptive statistics. I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+In this project,I used Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.I wrote code to import the data and answer interesting questions about it by computing descriptive statistics. I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-chicago.csv, new_york_city.csv, washington.csv
-
+chicago.csv, 
+new_york_city.csv, 
+washington.csv
+# Programs used
+Numpy
+Atom
+Pandas
 ### Credits
-Udacity's programming for data science with python Nanodegree instructors gave me invaluable insights in carrying out this project.
-pythonguides.com helped me to better understand the structure and details of some functions 
-https://edcarp.github.io was very helpful with my handling of errors.
-w3schools.com gave me broad understanding of python program.
+# Udacity's programming for data science with python Nanodegree instructors gave me invaluable insights in carrying out this project.
+# pythonguides.com helped me to better understand the structure and details of some functions. 
+# https://edcarp.github.io was very helpful with my handling of errors.
+# w3schools.com gave me broad understanding of python program.
 
